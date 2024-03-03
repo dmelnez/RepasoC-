@@ -1,0 +1,14 @@
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\bin\Debug\net6.0\repasoC.exe
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\bin\Debug\net6.0\repasoC.deps.json
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\bin\Debug\net6.0\repasoC.runtimeconfig.json
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\bin\Debug\net6.0\repasoC.dll
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\bin\Debug\net6.0\repasoC.pdb
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.AssemblyInfoInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.AssemblyInfo.cs
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.csproj.CoreCompileInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.dll
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\refint\repasoC.dll
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.pdb
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\repasoC.genruntimeconfig.cache
+C:\Users\shish\Desktop\Ejercicio05\repasoC\repasoC\obj\Debug\net6.0\ref\repasoC.dll
